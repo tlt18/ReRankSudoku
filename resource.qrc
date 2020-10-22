@@ -1,0 +1,17 @@
+<!DOCTYPE RCC> 
+<RCC version="1.0"> 
+<qresource> 
+<file alias="material/background">material/background.png</file> 
+<file alias="material/result/1">material/result/1.png</file>
+<file alias="material/result/2">material/result/2.png</file>
+<file alias="material/result/3">material/result/3.png</file>
+<file alias="material/result/4">material/result/4.png</file>
+<file alias="material/result/5">material/result/5.png</file>
+<file alias="material/result/6">material/result/6.png</file>
+<file alias="material/result/7">material/result/7.png</file>
+<file alias="material/result/8">material/result/8.png</file>
+<file alias="material/result/0">material/result/0.png</file>
+
+</qresource> 
+</RCC>
+
